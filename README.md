@@ -1,7 +1,7 @@
 <img src=".github/cover.png" alt="Ignite" >
 
 <h3 align="center">
-  Desafio 02 - Componentizando a aplicação
+  Desafio 01 - Conceitos do React
 </h3>
 
 <p align="center">
